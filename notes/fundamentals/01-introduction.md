@@ -1,5 +1,7 @@
 # Introduction to Java
 
+![Java Logo](../assets/java-logo.jpeg)
+
 ## What is Java?
 Java is a **technology** that consists of both:
 - A **programming language**
