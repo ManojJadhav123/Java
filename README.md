@@ -1,14 +1,16 @@
-# Java Notes 📝
+# ☕ Java Notes 📝
 
----
+A structured and practical Java learning repository focused on **strong fundamentals, Core Java, Java 8+, and interview preparation**.  
+Designed for **daily revision, hands-on practice, and job-oriented learning**.
+
 
 ## 📘 Java Fundamentals
 
-- [Chapter 1: Introduction to Java](./notes/fundamentals/01-introduction.md)
-- [Chapter 2: History & Features of Java](./notes/fundamentals/02-history-and-features.md)
-- [Chapter 3: JDK, JRE and JVM](./notes/fundamentals/03-jdk-jre-jvm.md)
-- [Chapter 4: Installation & Setup](./notes/fundamentals/04-installation-and-setup.md)
-- [Chapter 5: First Java Program](./notes/fundamentals/05-first-java-program.md)
+- [Introduction to Java](./notes/fundamentals/01-introduction.md)
+- [History & Features of Java](./notes/fundamentals/02-history-and-features.md)
+- [JDK, JRE and JVM](./notes/fundamentals/03-jdk-jre-jvm.md)
+- [Installation & Setup](./notes/fundamentals/04-installation-and-setup.md)
+- [First Java Program](./notes/fundamentals/05-first-java-program.md)
 
 ---
 
@@ -18,14 +20,6 @@
 - [Data Types](./notes/syntax/02-data-types.md)
 - [Operators](./notes/syntax/03-operators.md)
 - [Type Casting](./notes/syntax/04-type-casting.md)
-
----
-
-## 🔁 Control Flow
-
-- [If-Else](./notes/control-flow/01-if-else.md)
-- [Switch](./notes/control-flow/02-switch.md)
-- [Loops](./notes/control-flow/03-loops.md)
 
 ---
 
@@ -44,10 +38,10 @@
 
 - [Arrays](./notes/core-java/arrays.md)
 - [Strings](./notes/core-java/strings.md)
-- [Collections](./notes/core-java/collections.md)
+- [Collections Framework](./notes/core-java/collections.md)
 - [Generics](./notes/core-java/generics.md)
 - [Exception Handling](./notes/core-java/exceptions.md)
-- [Multithreading](./notes/core-java/multithreading.md)
+- [Multithreading & Concurrency](./notes/core-java/multithreading.md)
 
 ---
 
@@ -62,23 +56,14 @@
 ## 💾 I/O & JDBC
 
 - [File Handling](./notes/io/file-handling.md)
-- [Serialization](./notes/io/serialization.md)
+- [Serialization & Deserialization](./notes/io/serialization.md)
 - [JDBC Basics](./notes/jdbc/jdbc-basics.md)
 
 ---
 
-## 💼 Interview Preparation
+## 🧪 Practice Problems (Hands-On)
 
-- [Core Java Questions](./notes/interview/core-java-questions.md)
-- [OOP Questions](./notes/interview/oop-questions.md)
-- [Coding Problems](./notes/interview/coding-problems.md)
 
----
-
-## 📚 Resources
-
-- [Books](./resources/books.md)
-- [Websites](./resources/websites.md)
 - [Cheat Sheets](./resources/cheatsheets.md)
 
 ---
