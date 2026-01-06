@@ -31,7 +31,7 @@
     - Core Java class libraries
     - Supporting files
 - JRE does **not** contain development tools like compilers
-- JRE is mainly used by **end users**
+- JRE is mainly used by **end users**(can be installed separately without JDK)
 
 ---
 
