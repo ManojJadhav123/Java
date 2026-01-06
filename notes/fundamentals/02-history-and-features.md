@@ -163,8 +163,10 @@ Java is divided into different platforms based on application needs:
 
 ## Java Versions and Release Timeline
 
+## Java Versions and Release Timeline
+
 | Version | Release Year | LTS |
-|-------|-------------|-----|
+|--------|--------------|-----|
 | Java 1.0 | 1996 | ❌ |
 | Java 1.1 | 1997 | ❌ |
 | Java 2 (J2SE) | 1998 | ❌ |
@@ -185,10 +187,15 @@ Java is divided into different platforms based on application needs:
 | Java 19 | 2022 | ❌ |
 | Java 20 | 2023 | ❌ |
 | Java 21 | 2023 | ✅ |
+| Java 22 | 2024 | ❌ |
+| Java 23 | 2024 | ❌ |
+| Java 24 | 2025 | ❌ |
+| Java 25 | 2025 | ✅ |
 
-- LTS (Long-Term Support) versions receive extended updates
-- Java 8 remains one of the most widely used LTS versions
-- New Java versions are released every 6 months
+
+- Java follows a **6-month release cycle**
+- **Java 8** remains one of the most widely used **LTS** versions
+- **LTS (Long-Term Support)** versions receive extended updates and are released approximately every **2 years**
 
 ---
 
