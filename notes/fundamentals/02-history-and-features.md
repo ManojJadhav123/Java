@@ -142,7 +142,6 @@ Java is divided into different platforms based on application needs:
 
 ---
 
-### Java ME (Micro Edition)
 
 ### Java ME (Micro Edition)
 
@@ -161,7 +160,6 @@ Java is divided into different platforms based on application needs:
 
 ---
 
-## Java Versions and Release Timeline
 
 ## Java Versions and Release Timeline
 
