@@ -21,17 +21,20 @@
 
 ---
 
-## Java Runtime Environment (JRE)
+## JRE (Java Runtime Environment)
 
 - JRE stands for **Java Runtime Environment**
 - It is required to **run Java applications**
 - JRE provides the **runtime environment and support** required to execute Java programs
 - JRE contains:
-    - JVM
-    - Core Java class libraries
-    - Supporting files
+    - **JVM (Java Virtual Machine)**
+    - **Core Java class libraries**
+    - **Supporting files**
 - JRE does **not** contain development tools like compilers
-- JRE is mainly used by **end users**(can be installed separately without JDK)
+- JRE is mainly used by **end users** and can be installed **separately without the JDK**
+- It is a **software layer** that runs on top of a computer’s operating system
+- JRE creates an **instance of the JVM**, which executes the Java program
+- JRE includes a **class loader** that dynamically loads all the classes required to run a Java program
 
 ---
 
