@@ -25,7 +25,7 @@
 
 - JRE stands for **Java Runtime Environment**
 - It is required to **run Java applications**
-- JRE provides the runtime support required by Java programs
+- JRE provides the **runtime environment and support** required to execute Java programs
 - JRE contains:
     - JVM
     - Core Java class libraries
