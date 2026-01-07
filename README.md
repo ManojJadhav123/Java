@@ -23,6 +23,25 @@ Designed for **daily revision, hands-on practice, and job-oriented learning**.
 
 ---
 
+
+## 🔁 Control Flow Statements
+
+### Decision Control Statements
+- [if Statement](./notes/control-flow/01-if.md)
+- [if-else Statement](./notes/control-flow/02-if-else.md)
+- [if-else-if Ladder](./notes/control-flow/03-if-else-if.md)
+
+### Switch Case
+- [Switch Case](./notes/control-flow/04-switch.md)
+
+### Iterative Control Statements (Loops)
+- [for Loop](./notes/control-flow/05-for-loop.md)
+- [while Loop](./notes/control-flow/06-while-loop.md)
+- [do-while Loop](./notes/control-flow/07-do-while-loop.md)
+- [Enhanced for-each Loop](./notes/control-flow/08-for-each.md)
+
+---
+
 ## 🧩 Object-Oriented Programming (OOP)
 
 - [Classes & Objects](./notes/oop/01-classes-and-objects.md)
