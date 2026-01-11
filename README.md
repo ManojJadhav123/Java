@@ -23,7 +23,6 @@ Designed for **daily revision, hands-on practice, and job-oriented learning**.
 
 ---
 
-
 ## 🔁 Control Flow Statements
 
 ### Decision Control Statements
@@ -40,16 +39,48 @@ Designed for **daily revision, hands-on practice, and job-oriented learning**.
 - [do-while Loop](./notes/control-flow/07-do-while-loop.md)
 - [Enhanced for-each Loop](./notes/control-flow/08-for-each.md)
 
+### Loop Control Statements
+- [break and continue](./notes/control-flow/09-break-continue.md)
+- [Labeled break and continue](./notes/control-flow/10-labeled-break-continue.md)
+
 ---
 
 ## 🧩 Object-Oriented Programming (OOP)
 
+### Basics of OOP
+
 - [Classes & Objects](./notes/oop/01-classes-and-objects.md)
-- [Constructors](./notes/oop/02-constructors.md)
-- [Inheritance](./notes/oop/03-inheritance.md)
-- [Polymorphism](./notes/oop/04-polymorphism.md)
-- [Abstraction](./notes/oop/05-abstraction.md)
-- [Encapsulation](./notes/oop/06-encapsulation.md)
+- [Memory Management in Java](./notes/oop/02-memory-management.md)
+- [Types of Variables](./notes/oop/03-types-of-variables.md)
+- [static Keyword](./notes/oop/04-static-keyword.md)
+- [Initialization Blocks & Static Blocks](./notes/oop/05-initialization-blocks.md)
+
+---
+
+### Object Creation & Utilities
+
+- [Constructors](./notes/oop/06-constructors.md)
+- [Singleton Class](./notes/oop/07-singleton-class.md)
+- [Wrapper Classes](./notes/oop/08-wrapper-classes.md)
+- [Command Line Arguments](./notes/oop/09-command-line-arguments.md)
+- [User Input in Java](./notes/oop/10-user-input.md)
+
+---
+
+### Packages & Access Control
+
+- [Packages](./notes/oop/11-packages.md)
+- [import Statement](./notes/oop/12-import.md)
+- [Access Modifiers](./notes/oop/13-access-modifiers.md)
+
+---
+
+### Core OOP Principles
+
+- [Inheritance](./notes/oop/14-inheritance.md)
+- [Polymorphism](./notes/oop/15-polymorphism.md)
+- [Abstraction](./notes/oop/16-abstraction.md)
+- [Encapsulation](./notes/oop/17-encapsulation.md)
 
 ---
 
