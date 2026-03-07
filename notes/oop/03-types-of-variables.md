@@ -84,6 +84,9 @@ class College {
 }
 ```
 ---
+![static methods](../assets/static-methods.jpg)
+
+---
 ## Important Points (Static Variables)
 
 - Accessed using the **class name**
