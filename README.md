@@ -59,8 +59,8 @@ Designed for **daily revision, hands-on practice, and job-oriented learning**.
 
 ### Object Creation & Utilities
 
-- [Constructors](./notes/oop/06-constructors.md)
-- [Singleton Class](./notes/oop/07-singleton-class.md)
+- [Constructor and Singleton Class](./notes/oop/06-constructors.md)
+- [Initialization Block, Static Block](./notes/oop/-07-initialization-block-and-static-block.md)
 - [Wrapper Classes](./notes/oop/08-wrapper-classes.md)
 - [Command Line Arguments](./notes/oop/09-command-line-arguments.md)
 - [User Input in Java](./notes/oop/10-user-input.md)
@@ -69,18 +69,17 @@ Designed for **daily revision, hands-on practice, and job-oriented learning**.
 
 ### Packages & Access Control
 
-- [Packages](./notes/oop/11-packages.md)
-- [import Statement](./notes/oop/12-import.md)
-- [Access Modifiers](./notes/oop/13-access-modifiers.md)
+- [Packages and Import Statement](./notes/oop/11-packages.md)
+- [Access Modifiers](./notes/oop/12-access-modifiers.md)
 
 ---
 
 ### Core OOP Principles
 
-- [Inheritance](./notes/oop/14-inheritance.md)
-- [Polymorphism](./notes/oop/15-polymorphism.md)
-- [Abstraction](./notes/oop/16-abstraction.md)
-- [Encapsulation](./notes/oop/17-encapsulation.md)
+- [Inheritance](./notes/oop/13-inheritance.md)
+- [Polymorphism](./notes/oop/14-polymorphism.md)
+- [Abstraction](./notes/oop/15-abstraction.md)
+- [Encapsulation](./notes/oop/16-encapsulation.md)
 
 ---
 
