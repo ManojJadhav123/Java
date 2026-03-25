@@ -54,7 +54,6 @@ Designed for **daily revision, hands-on practice, and job-oriented learning**.
 - [Memory Management in Java](./notes/oop/02-memory-management.md)
 - [Types of Variables](./notes/oop/03-types-of-variables.md)
 - [static Keyword](./notes/oop/04-static-keyword.md)
-- [Initialization Blocks & Static Blocks](./notes/oop/05-initialization-blocks.md)
 
 ---
 
