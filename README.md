@@ -3,6 +3,7 @@
 A structured and practical Java learning repository focused on **strong fundamentals, Core Java, Java 8+, and interview preparation**.  
 Designed for **daily revision, hands-on practice, and job-oriented learning**.
 
+---
 
 ## 📘 Java Fundamentals
 
@@ -77,9 +78,36 @@ Designed for **daily revision, hands-on practice, and job-oriented learning**.
 ### Core OOP Principles
 
 - [Inheritance](./notes/oop/13-inheritance.md)
-- [Polymorphism](./notes/oop/14-polymorphism.md)
-- [Abstraction](./notes/oop/15-abstraction.md)
-- [Encapsulation](./notes/oop/16-encapsulation.md)
+- [Method Overloading, Overriding & Hiding](./notes/oop/14-methods.md)
+
+---
+
+### Advanced OOP Concepts
+
+- [this and super Keyword](./notes/oop/15-this-and-super-keyword.md)
+- [Constructor in Inheritance and Constructor in Chaining](./notes/oop/16-constructor-inheritance-and-chaining.md)
+- [final Keyword](./notes/oop/17-final-keyword.md)
+
+---
+
+### Abstraction & Interfaces
+
+- [Polymorphism](./notes/oop/15-polymorphism.md)
+- [Abstraction](./notes/oop/16-abstraction.md)
+- [Abstract Class & Methods](./notes/oop/20-abstract-class.md)
+- [Interface](./notes/oop/21-interface.md)
+
+---
+
+### Java Core Object Model
+
+- [Object Class](./notes/oop/22-object-class.md)
+
+---
+
+### Encapsulation
+
+- [Encapsulation](./notes/oop/17-encapsulation.md)
 
 ---
 
@@ -89,8 +117,48 @@ Designed for **daily revision, hands-on practice, and job-oriented learning**.
 - [Strings](./notes/core-java/strings.md)
 - [Collections Framework](./notes/core-java/collections.md)
 - [Generics](./notes/core-java/generics.md)
-- [Exception Handling](./notes/core-java/exceptions.md)
+
+---
+
+## ⚠️ Exception Handling
+
+- [Exception Handling - 1](./notes/core-java/exceptions.md)
+- [throw and throws](./notes/core-java/throw-throws.md)
+
+---
+
+## 🧵 Multithreading
+
 - [Multithreading & Concurrency](./notes/core-java/multithreading.md)
+- [Thread Lifecycle & Methods](./notes/core-java/thread-lifecycle.md)
+- [wait() and notify()](./notes/core-java/thread-communication.md)
+
+---
+
+## 💾 File Handling
+
+- [File Handling](./notes/io/file-handling.md)
+
+---
+
+## 🖥️ GUI Programming
+
+- [GUI Programming in Java](./notes/gui/gui.md)
+
+---
+
+## 🗄️ Database (DBMS & SQL)
+
+- [Introduction to DBMS](./notes/dbms/intro.md)
+- [MySQL Installation & Setup](./notes/dbms/mysql-setup.md)
+- [SQL Commands](./notes/dbms/sql-commands.md)
+- [MySQL Constraints](./notes/dbms/constraints.md)
+
+---
+
+## 🔗 JDBC
+
+- [JDBC Basics](./notes/jdbc/jdbc-basics.md)
 
 ---
 
@@ -102,16 +170,7 @@ Designed for **daily revision, hands-on practice, and job-oriented learning**.
 
 ---
 
-## 💾 I/O & JDBC
-
-- [File Handling](./notes/io/file-handling.md)
-- [Serialization & Deserialization](./notes/io/serialization.md)
-- [JDBC Basics](./notes/jdbc/jdbc-basics.md)
-
----
-
 ## 🧪 Practice Problems (Hands-On)
-
 
 - [Cheat Sheets](./resources/cheatsheets.md)
 
