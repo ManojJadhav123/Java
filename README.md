@@ -60,7 +60,7 @@ Designed for **daily revision, hands-on practice, and job-oriented learning**.
 ### Object Creation & Utilities
 
 - [Constructor and Singleton Class](./notes/oop/06-constructors.md)
-- [Initialization Block, Static Block](./notes/oop/-07-initialization-block-and-static-block.md)
+- [Initialization Block, Static Block](./notes/oop/07-initialization-block-and-static-block.md)
 - [Wrapper Classes](./notes/oop/08-wrapper-classes.md)
 - [Command Line Arguments](./notes/oop/09-command-line-arguments.md)
 - [User Input in Java](./notes/oop/10-user-input.md)
